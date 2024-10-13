@@ -1,0 +1,25 @@
+City,Country,Continent,Temperature (°C),Humidity (%),Wind Speed (m/s),Weather,Description,Timestamp
+Tokyo,Japan,Asia,17.54,81,0.89,Clear,clear sky,2024-10-13 13:22:42
+Shanghai,China,Asia,22.92,83,2,Clear,clear sky,2024-10-13 13:22:42
+Delhi,India,Asia,26.05,53,1.03,Haze,haze,2024-10-13 13:22:42
+Mumbai,India,Asia,25.99,89,3.09,Thunderstorm,thunderstorm,2024-10-13 13:22:42
+Moscow,Russia,Europe,6.42,61,6.65,Clouds,overcast clouds,2024-10-13 13:22:42
+London,UK,Europe,8.4,79,0.45,Clouds,overcast clouds,2024-10-13 13:22:42
+Berlin,Germany,Europe,11.12,81,8.75,Clouds,broken clouds,2024-10-13 13:22:42
+Paris,France,Europe,11.74,76,2.57,Clear,clear sky,2024-10-13 13:22:42
+New York,USA,North America,21.46,62,4.12,Clear,clear sky,2024-10-13 13:22:42
+Los Angeles,USA,North America,20.6,73,3.09,Haze,haze,2024-10-13 13:22:42
+Toronto,Canada,North America,11.95,75,7.2,Clouds,overcast clouds,2024-10-13 13:22:42
+Mexico City,Mexico,North America,17.84,60,2.57,Clouds,few clouds,2024-10-13 13:22:42
+São Paulo,Brazil,South America,19.45,81,7.72,Clouds,broken clouds,2024-10-13 13:22:42
+Rio de Janeiro,Brazil,South America,25.21,68,8.23,Clouds,scattered clouds,2024-10-13 13:22:42
+Buenos Aires,Argentina,South America,18.34,79,1.79,Clouds,scattered clouds,2024-10-13 13:22:42
+Lima,Peru,South America,19.14,68,4.63,Clouds,scattered clouds,2024-10-13 13:22:42
+Lagos,Nigeria,Africa,25.19,90,3.61,Rain,moderate rain,2024-10-13 13:22:42
+Cairo,Egypt,Africa,31.42,40,2.06,Clear,clear sky,2024-10-13 13:22:42
+Kinshasa,Democratic Republic of the Congo,Africa,27.39,60,1.92,Clouds,broken clouds,2024-10-13 13:22:42
+Johannesburg,South Africa,Africa,23.79,34,2.25,Clouds,scattered clouds,2024-10-13 13:22:42
+Sydney,Australia,Australia,12.7,81,0.89,Clouds,overcast clouds,2024-10-13 13:22:42
+Melbourne,Australia,Australia,28.6,67,4.12,Clear,clear sky,2024-10-13 13:22:42
+Auckland,New Zealand,Australia,8.96,73,2.06,Clouds,few clouds,2024-10-13 13:22:42
+Brisbane,Australia,Australia,16.65,80,2.06,Clouds,overcast clouds,2024-10-13 13:22:42
