@@ -1,7 +1,17 @@
+import os
 import requests
 import csv
 from datetime import datetime
-import os
+from dotenv import load_dotenv
+
+# Cargar variables de entorno desde el archivo .env
+load_dotenv()
+
+# Obtener la API Key desde las variables de entorno
+api_key = os.getenv("OPENWEATHER_API_KEY")
+
+if not api_key:
+    raise ValueError("No se ha encontrado la API Key. Por favor, asegúrate de definirla en el archivo .env.")
 
 # Lista de ciudades, países y continentes
 cities = [
@@ -30,8 +40,6 @@ cities = [
     ("Auckland", "New Zealand", "Australia"),
     ("Brisbane", "Australia", "Australia"),
 ]
-
-api_key = "42b2beaefa540db299a19dfd2a60b80a"  # Tu API Key de OpenWeather
 
 # Ruta absoluta para el archivo CSV
 base_dir = os.path.dirname(os.path.abspath(__file__))
