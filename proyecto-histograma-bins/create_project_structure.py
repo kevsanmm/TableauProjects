@@ -1,7 +1,7 @@
 import os
 
 # Define the base path for your project
-base_path = "/Users/alexandersandoval/Documents/GitHub/TableauProjects/proyecto-open-weather"
+base_path = "/Users/alexandersandoval/Documents/GitHub/TableauProjects/proyecto-histograma-bins"
 
 # Define the folder structure
 folders = [
@@ -18,7 +18,7 @@ folders = [
 # Define the files to create
 files = {
     "requirements.txt": "",
-    "README.md": "# Proyecto OpenWeather API - Tableau",
+    "README.md": "# Proyecto Histograma Bins - Tableau",
     "config/config.yaml": "# Aquí guarda la API key y configuraciones"
 }
 
